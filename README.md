@@ -1,36 +1,120 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Fullstack Starter Template
 
-## Getting Started
+Kickstart your next project with this comprehensive Fullstack Starter Template, leveraging a modern tech stack including **Next.js**, **tRPC**, **Tailwind CSS**, **shadcn/ui**, and **NextAuth** for seamless authentication.
 
-First, run the development server:
+---
+
+## 🚀 Features
+
+- **Next.js**: React framework for building production-grade applications with server-side rendering and static site generation.
+- **tRPC**: End-to-end type-safe APIs for your TypeScript fullstack applications.
+- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
+- **shadcn/ui**: Accessible and customizable components built with Radix UI and Tailwind CSS.
+- **NextAuth**: Easy and secure authentication for Next.js apps.
+
+---
+
+## 🌟 Benefits
+
+### Rapid Development
+Quickly start your project with a pre-configured setup and best practices.
+
+### Type Safety
+Ensure end-to-end type safety with **TypeScript** and **tRPC**, reducing bugs and enhancing the developer experience.
+
+### Modern UI
+Design responsive and visually appealing interfaces with **Tailwind CSS** and **shadcn/ui** components.
+
+### Authentication Ready
+Implement secure and flexible authentication flows using **NextAuth**.
+
+### Scalable Architecture
+Built on **Next.js**, this template is designed to scale seamlessly with your project's needs.
+
+### Community Support
+Tap into a thriving community of developers using this tech stack, with extensive resources and support.
+
+---
+
+## 📦 Installation
+
+Clone the repository and get started:
+
+```bash
+git clone https://github.com/pixperk/fullstack-starter.git
+```
+
+Install dependencies:
+
+```bash
+cd fullstack-starter
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🌐 Live Demo
 
-## Learn More
+Check out the [live demo](#) of the Fullstack Starter Template to explore its features and capabilities.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Technologies Used
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Next.js**: React framework for production-ready applications.
+- **tRPC**: End-to-end typesafe APIs.
+- **Tailwind CSS**: Modern utility-first CSS framework.
+- **shadcn/ui**: Fully customizable, accessible components.
+- **NextAuth**: Authentication for Next.js.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📂 Directory Structure
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```
+fullstack-starter
+├── components/      # Reusable UI components
+├── pages/           # Next.js pages
+├── public/          # Static assets
+├── styles/          # Tailwind CSS styles
+├── api/             # tRPC API handlers
+├── utils/           # Utility functions
+├── package.json     # Dependencies and scripts
+└── README.md        # Project documentation
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to open an issue or submit a pull request. 
+
+
+---
+
+## 📝 Credits
+
+Developed by Yashaswi Mishra (https://github.com/pixperk).
+
+---
+
+## 🔗 Links
+
+- [GitHub Repository](https://github.com/pixperk/fullstack-starter)
+
+---
+
+## 🌟 Get Started
+
+Clone the repository and build your next great idea:
+
+```bash
+git clone https://github.com/pixperk/fullstack-starter.git
