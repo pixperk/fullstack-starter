@@ -8,8 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "db": "npx prisma db push",
-    "show-db" : "npx prisma studio",
-    "relate" : "npx prisma format",
+    "show-db": "npx prisma studio",
+    "relate": "npx prisma format",
     "db-gen": "npx prisma generate"
   },
   "dependencies": {
@@ -32,6 +32,7 @@
     "@trpc/server": "^10.45.2",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "ioredis": "^5.4.1",
     "lucide-react": "^0.468.0",
     "next": "15.0.4",
     "next-auth": "^5.0.0-beta.25",
